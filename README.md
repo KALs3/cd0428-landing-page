@@ -1,13 +1,13 @@
-# Landing Page Project
+# Manipulating the DOM exercise
+### in this project the aim is to use your javascript skills to manipulate and incorporate new features in the page 
 
-## Table of Contents
 
-* [Instructions](#instructions)
+# Dependencies: None
+ 
+# JS Version: ES2015/ES6
 
-## Instructions
+# implemntaions 
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+* A dynamic Navigation that is built with javascript 
+* A Section Active State which  displays  which section you are currently viewing in the page 
+* a smooth scroll behaviour that allows makes smooth scrolling on the page instead of jumping into the section directly
