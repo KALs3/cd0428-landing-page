@@ -6,7 +6,7 @@
  
 # JS Version: ES2015/ES6
 
-# implemntaions 
+# implementations 
 
 * A dynamic Navigation that is built with javascript 
 * A Section Active State which  displays  which section you are currently viewing in the page 
